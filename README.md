@@ -1,98 +1,77 @@
 <!-- vuongmanhnghia -->
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/vuongmanhnghia.svg" width="1200" alt="vuongmanhnghia-official" />
-</a>
+</a> -->
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
+<!-- Banner -->
+
+![👋 Hi, my name is Nagih](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+
+###
+
+<img align="right" height="70" width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif"  />
+
+###
+
+<div align="left">
+  <div id="toc">
+    <ul align="center" style="list-style: none">
+      <h5>
+        Passionate DevOps engineer.
+      </h5>
+    </ul>
+  </div>
+  <a href="mailto:vuongmanhnghia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/vuongmanhnghia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px">
+  </a>
+  <a href="https://www.facebook.com/vmn.isme" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 8px">
+  </a>
+</div>
+
+###
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+###
+
+<h2 align="center">Technologies and Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nix,bash,vim,lua,raspberrypi" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,kafka,aws,cloudflare,nginx,firebase" /><br/>
+    <img src="https://skillicons.dev/icons?i=go,ts,py,nodejs,react,fastapi,tailwind" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" /><br/>
+  </a>
+</p>
+
+<br>
+<h2 align="center">GitHub Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="vuongmanhnghia">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongmanhnghia&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="vuongmanhnghia">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
-</div>
+
+
+<p align="center">
+  <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&theme=dark&cache_seconds=1800&border_radius=4&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&hide_border=true&rank_icon=github&text_bold=true" alt="GitHub stats Card" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuongmanhnghia&theme=dark&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=8&card_width=400&hide_progress=false&hide_border=true" alt="GitHub top-langs Card" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=dark" width="99%" height="auto" />
+</p>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
 <div align="center">
-  <!-- <a href="https://vuongmanhnghia.com" target="blank">
-    <img width="90" height="90" src="images/logo-vuongmanhnghia-transparent-bg-192x192.png" alt="vuongmanhnghia-blog" />
-  </a> -->
-  <a href="https://facebook.com/vuongmanhnghia365" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vuongmanhnghia-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/vuongmanhnghia" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="vuongmanhnghia-linkedin" />
-  </a>
-  <a href="https://instagram.com/_nghia.05" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="vuongmanhnghia-instagram" />
-  </a>
+  <h2>My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
 </div>
-
 <br>
-
-<h2 align="center">📖 My main course: [DEVOPS] MERN ADVANCED 📖</h2>
-<br>
-<p>
-  <a>
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="svg/vuongmanhnghia-quotes.svg" width="846" height="150" alt="vuongmanhnghia-devops" />
   </a>
 </p>
-<p>
- 
-</p>
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/vuongmanhnghia-quotes.svg" width="846" height="150" alt="vuongmanhnghia-devops" />
-</a>
