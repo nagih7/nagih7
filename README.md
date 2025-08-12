@@ -241,16 +241,22 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Next.js"/>
+        <br>Git
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
       </td>
       <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
+          <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" alt="Next.js"/>
+        <br>Jenkins
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
+          <img src="https://skillicons.dev/icons?i=kafka" width="50" height="50" alt="Next.js"/>
+        <br>Kafka
       </td>
     </tr>
   </tbody>
