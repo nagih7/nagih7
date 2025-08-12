@@ -82,27 +82,60 @@
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-<h3 align="center">Web Development</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
+      <th colspan="8" align="center" style="color: white;">System</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
+        <br>Linux
       </td>
       <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
+        <br>Linux
+      </td><td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
+        <br>Linux
+      </td><td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
+        <br>Linux
+      </td><td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
+        <br>Linux
+      </td><td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
+        <br>Linux
+      </td><td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
+        <br>Linux
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">System</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
+        <br>Linux
+      </td>
+      <td align="center" style="border: none;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
         <br>Tailwind CSS
       </td>
       <td align="center" style="border: none;">
