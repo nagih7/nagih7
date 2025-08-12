@@ -95,7 +95,7 @@
     <tr>
       <td align="center" style="border: none;">
         <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Next.js"/>
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
       </td>
