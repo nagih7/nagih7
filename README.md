@@ -235,7 +235,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+      <th colspan="5" align="center" style="color: white;">Containerization & Orchestration</th>
     </tr>
   </thead>
   <tbody>
@@ -257,6 +257,28 @@
       <td align="center" style="border: none;">
           <img src="https://skillicons.dev/icons?i=kafka" width="50" height="50" alt="Next.js"/>
         <br>Kafka
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Deploy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=cloudflare" width="50" height="50" alt="Next.js"/>
+        <br>Cloudflare
+      </td>
+      <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" alt="Next.js"/>
+        <br>Nginx
       </td>
     </tr>
   </tbody>
