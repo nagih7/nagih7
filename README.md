@@ -129,7 +129,7 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Next.js"/>
+          <img src="https://img.icons8.com/?size=48&id=44442&format=png" width="50" height="50" alt="Next.js"/>
         <br>Go
       </td>
       <td align="center" style="border: none;">
