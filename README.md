@@ -98,24 +98,20 @@
         <br>Linux
       </td>
       <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
-        <br>Linux
+          <img src="https://skillicons.dev/icons?i=nix" width="50" height="50" alt="Next.js"/>
+        <br>Nix
       </td><td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
-        <br>Linux
+          <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Next.js"/>
+        <br>Bash
       </td><td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
-        <br>Linux
+          <img src="https://skillicons.dev/icons?i=vim" width="50" height="50" alt="Next.js"/>
+        <br>Vim/NVim
+      <!-- </td><td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=lua" width="50" height="50" alt="Next.js"/>
+        <br>Lua -->
       </td><td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
-        <br>Linux
-      </td><td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
-        <br>Linux
-      </td><td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Next.js"/>
-        <br>Linux
-      </td>
+          <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" height="50" alt="Next.js"/>
+        <br>Raspberrypi
     </tr>
   </tbody>
 </table>
