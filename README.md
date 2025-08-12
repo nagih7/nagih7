@@ -75,3 +75,8 @@
     <img src="svg/vuongmanhnghia-quotes.svg" width="846" height="150" alt="vuongmanhnghia-devops" />
   </a>
 </p>
+
+<a href="https://github.com/vuongmanhnghia">
+    <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="KenanGain's GitHub Contribution Chart">
+</a>
+
