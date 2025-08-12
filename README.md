@@ -38,7 +38,7 @@
 
 ###
 
-<!-- <h2 align="center">Technologies and Tools</h2>
+<h2 align="center">Technologies and Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=go,ts,py,nodejs,react,fastapi,tailwind" /><br/>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" /><br/>
   </a>
-</p> -->
+</p>
 
 <br>
 <h2 align="center">GitHub Stats</h2>
