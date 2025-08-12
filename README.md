@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://bento.me/kenangain">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Vuong%20Manh%Nghia&description=Hi%2C%20I%27m%20a%20devops%20engineer%20and%20I%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/123850496?v=4&backgroundColor=%23ecf0f1&instagram=nagihdayo&linkedin=vuongmanhnghia&github=vuongmanhnghia&twitter=nagihdayo" alt="Nagih's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Vuong%20Manh%Nghia&description=Hi%2C%20I%27m%20a%20devops%20engineer%20and%20I%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif&backgroundColor=%23ecf0f1&instagram=nagihdayo&linkedin=vuongmanhnghia&github=vuongmanhnghia&twitter=nagihdayo" alt="Nagih's Card" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <div id="toc">
     <ul align="center" style="list-style: none">
       <h5>
@@ -34,7 +34,7 @@
   <a href="https://www.facebook.com/vmn.isme" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 8px">
   </a>
-</div>
+</div> -->
 
 ###
 
