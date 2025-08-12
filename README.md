@@ -1,57 +1,64 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="https://bento.me/kenangain">
+  <a href="https://bento.me/vuongmanhnghia">
     <img width="100%" src="https://cardivo.vercel.app/api?name=Vuong%20Manh%Nghia&description=Hi%2C%20I%27m%20a%20devops%20engineer%20and%20I%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif&backgroundColor=%23ecf0f1&instagram=nagihdayo&linkedin=vuongmanhnghia&github=vuongmanhnghia&twitter=nagihdayo" alt="Nagih's Card" />
   </a>
 </div>
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Nagih</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/vuongmanhnghia/vuongmanhnghia/blob/main/icons/wave.gif" width="48"></a> , I'm Nagih</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=DevOps+Engineer" alt="Typing SVG" />
 
 </p>
 
+<!-- <div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Discover my work and connect on these platforms!</p>
 
+ | Kenan Gain | YouTube | Instagram | LinkedIn | Facebook |
+| --- | --- | --- | --- | --- |
+| [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.vuongmanhnghia.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
 
-
-<!-- ![👋 Hi, my name is Nagih](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
-
-###
-
-<img align="right" height="70" width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif"  /> -->
-
-###
-
-<!-- <div align="left">
-  <div id="toc">
-    <ul align="center" style="list-style: none">
-      <h5>
-        Passionate DevOps engineer.
-      </h5>
-    </ul>
-  </div>
-  <a href="mailto:vuongmanhnghia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/vuongmanhnghia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px">
-  </a>
-  <a href="https://www.facebook.com/vmn.isme" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 8px">
-  </a>
-</div> -->
-
-###
+| Twitch | Twitter | Reddit | Discord | GitHub |
+| --- | --- | --- | --- | --- |
+| [![knightgamer2910](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910) | [![vuongmanhnghia](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@vuongmanhnghia&size=square)](https://x.com/gain_kenan) | [![Automated_Artistry](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fvuongmanhnghia&subtitle=%2FKenan+Gain&size=square)](https://github.com/vuongmanhnghia) | -->
 
 <br>
 
-###
 
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=vuongmanhnghia&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
-<h2 align="center">GitHub Stats</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongmanhnghia&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vuongmanhnghia&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vuongmanhnghia&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
+<h2 align="center">Git Stats</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats
 
 
 <p align="center">
@@ -67,7 +74,7 @@
   <h2>My Contributions </h2>
   <br>
   <a href="https://github.com/vuongmanhnghia1">
-    <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="KenanGain's GitHub Contribution Chart">
+    <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="vuongmanhnghia's GitHub Contribution Chart">
   </a>
   <br/><br/><br/>
 </div>
