@@ -66,7 +66,9 @@
 <div align="center">
   <h2>My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/vuongmanhnghia1">
+    <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="KenanGain's GitHub Contribution Chart">
+  </a>
   <br/><br/><br/>
 </div>
 <br>
@@ -76,7 +78,4 @@
   </a>
 </p>
 
-<a href="https://github.com/vuongmanhnghia">
-    <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="KenanGain's GitHub Contribution Chart">
-</a>
 
