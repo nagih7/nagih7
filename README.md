@@ -1,15 +1,19 @@
-<!-- vuongmanhnghia -->
-<!-- <a href="#" target="_blank">
-  <img src="svg/vuongmanhnghia.svg" width="1200" alt="vuongmanhnghia-official" />
-</a> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<!-- Banner -->
+<div align="center">
+  <a href="https://bento.me/kenangain">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Hi%2C%20I%27m%20a%20devops%20engineer%20and%20I%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-1/465731568_1116272700068715_9120301756129587719_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=3lEp-e6bBpsQ7kNvwGJ3kjS&_nc_oc=AdlKUIDWqhMQ5kilyH75z--bKBnKYr77lQHYPTwZq663tK8rsFjb6AKLyW8KK1qb7CY&_nc_zt=24&_nc_ht=scontent.fhan17-1.fna&_nc_gid=pqg9wJcjDLFnVsef5byU_A&oh=00_AfUGGVUJ9UlxftOdzBbDZH6ddTMKtQySkbH90hrrDZUF2w&oe=68A07BA7&backgroundColor=%23ecf0f1&instagram=satyawikananda&instagram=nagihdayo&linkedin=vuongmanhnghia&github=vuongmanhnghia&twitter=nagihdayo" alt="Nagih's Card" />
+  </a>
+</div>
 
-![👋 Hi, my name is Nagih](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+
+
+
+<!-- ![👋 Hi, my name is Nagih](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ###
 
-<img align="right" height="70" width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif"  />
+<img align="right" height="70" width="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif"  /> -->
 
 ###
 
@@ -37,17 +41,6 @@
 <br>
 
 ###
-
-<h2 align="center">Technologies and Tools</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nix,bash,vim,lua,raspberrypi" /><br/>
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,kafka,aws,cloudflare,nginx,firebase" /><br/>
-    <img src="https://skillicons.dev/icons?i=go,ts,py,nodejs,react,fastapi,tailwind" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" /><br/>
-  </a>
-</p>
 
 <br>
 <h2 align="center">GitHub Stats</h2>
@@ -272,3 +265,5 @@
   </tbody>
 </table>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
