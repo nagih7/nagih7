@@ -32,9 +32,16 @@
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-   <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   
 <br>
 <div align="center" width="100%">
+<table>
+  <tr>
+    <td>
+      <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Nagih's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>
@@ -49,8 +56,7 @@
 <table>
   <tr>
     <td>
-      <!-- <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true"> -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=dark" width="99%" height="auto" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
     </td>
   </tr>
 </table>
