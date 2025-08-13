@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/vuongmanhnghia/vuongmanhnghia/blob/main/icons/wave.gif" width="48"></a> , I'm Nagih</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Nagih</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=DevOps+Engineer" alt="Typing SVG" />
@@ -41,20 +41,17 @@
 <table>
   <tr>
     <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+    </td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongmanhnghia&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vuongmanhnghia&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vuongmanhnghia&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
 <h2 align="center">Git Stats</h2>
