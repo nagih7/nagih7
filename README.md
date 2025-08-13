@@ -32,9 +32,9 @@
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
-<div align="center">
+<div align="center" width="100%">
 <table>
   <tr>
     <td>
