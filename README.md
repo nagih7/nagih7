@@ -51,13 +51,13 @@
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
     </td>
   </tr>
-</table>
+</table> -->
 
 </div>
 
