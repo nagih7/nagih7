@@ -77,6 +77,7 @@
 </p>
 
 <br>
+
 <div align="center">
   <h2>My Contributions </h2>
   <br>
@@ -85,12 +86,13 @@
   </a>
   <br/><br/><br/>
 </div>
+
 <br>
-<p align="center">
+<!-- <p align="center">
   <a href="#" target="_blank">
     <img src="svg/vuongmanhnghia-quotes.svg" width="846" height="150" alt="vuongmanhnghia-devops" />
   </a>
-</p>
+</p> -->
 
 <!-- TECH STACK -->
 
