@@ -46,11 +46,19 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
+
 <h2 align="center">Git Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats
 
