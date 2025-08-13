@@ -28,55 +28,6 @@
 
 <br>
 
-
-<h3 align="center">Git Stats</h3>
-
-<div align="center">
-   
-<br>
-
-<div align="center" width="100%">
-  <table>
-    <tr>
-      <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Nagih's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nagih's GitHub stats">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongmanhnghia&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-<!-- <table>
-  <tr>
-    <td>
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
-    </td>
-  </tr>
-</table> -->
-</div>
-
-<br>
-
-<div align="center">
-  <h2>My Contributions </h2>
-  <br>
-  <a href="https://github.com/vuongmanhnghia1">
-    <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="vuongmanhnghia's GitHub Contribution Chart">
-  </a>
-</div>
-
-<br>
-<!-- <p align="center">
-  <a href="#" target="_blank">
-    <img src="svg/vuongmanhnghia-quotes.svg" width="846" height="150" alt="vuongmanhnghia-devops" />
-  </a>
-</p> -->
-
 <!-- TECH STACK -->
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
@@ -271,5 +222,53 @@
   </tbody>
 </table>
 </div>
+
+<br>
+
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+   
+<br>
+
+<div align="center" width="100%">
+  <table>
+    <tr>
+      <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Nagih's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nagih's GitHub stats">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongmanhnghia&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+<!-- <table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
+    </td>
+  </tr>
+</table> -->
+</div>
+
+<br>
+
+<div align="center">
+  <h2>My Contributions </h2>
+  <br>
+  <a href="https://github.com/vuongmanhnghia1">
+    <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="vuongmanhnghia's GitHub Contribution Chart">
+  </a>
+</div>
+
+<br>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
