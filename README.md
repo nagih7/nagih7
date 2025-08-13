@@ -34,23 +34,23 @@
 <div align="center">
    
 <br>
-<div align="center" width="100%">
-<table>
-  <tr>
-    <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Nagih's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nagih's GitHub stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongmanhnghia&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-  </tr>
-</table>
 
+<div align="center" width="100%">
+  <table>
+    <tr>
+      <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=vuongmanhnghia&custom_title=Nagih's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nagih's GitHub stats">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongmanhnghia&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
 <!-- <table>
   <tr>
     <td>
@@ -58,23 +58,7 @@
     </td>
   </tr>
 </table> -->
-
 </div>
-
-
-
-
-<h2 align="center">Git Stats</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats
-
-
-<p align="center">
-  <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=vuongmanhnghia&theme=dark&cache_seconds=1800&border_radius=4&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&hide_border=true&rank_icon=github&text_bold=true" alt="GitHub stats Card" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuongmanhnghia&theme=dark&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=8&card_width=400&hide_progress=false&hide_border=true" alt="GitHub top-langs Card" />
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=dark" width="99%" height="auto" />
-</p>
 
 <br>
 
@@ -84,7 +68,6 @@
   <a href="https://github.com/vuongmanhnghia1">
     <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="vuongmanhnghia's GitHub Contribution Chart">
   </a>
-  <br/><br/><br/>
 </div>
 
 <br>
