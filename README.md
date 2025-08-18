@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://bento.me/vuongmanhnghia">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Vuong%20Manh%Nghia&description=Hi%2C%20I%27m%20a%20devops%20engineer%20and%20I%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif&backgroundColor=%23ecf0f1&instagram=nagihdayo&linkedin=vuongmanhnghia&github=vuongmanhnghia&twitter=nagihdayo" alt="Nagih's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Vuong%20Manh%20Nghia&description=Hi%2C%20I%27m%20a%20devops%20engineer%20and%20I%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif&backgroundColor=%23ecf0f1&instagram=nagihdayo&linkedin=vuongmanhnghia&github=vuongmanhnghia&twitter=nagihdayo" alt="Nagih's Card" />
   </a>
 </div>
 
@@ -245,6 +245,9 @@
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongmanhnghia&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
       </td>
     </tr>
   </table>
