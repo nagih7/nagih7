@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://bento.me/vuongmanhnghia">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Vuong%20Manh%20Nghia&description=Hi%2C%20I%27m%20a%20devops%20engineer%20and%20I%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/465731568_1116272700068715_9120301756129587719_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=R1ZJ_LoxJJQQ7kNvwFBOUnJ&_nc_oc=AdltbKuYhYhlPcggiOARXugSR5a73UVWS8wVHnZbSziRXuQxXpXhLrtVayl7kphVeiI&_nc_zt=23&_nc_ht=scontent.fhan14-1.fna&_nc_gid=xApOpKCU_cRgBUFHl39FlA&oh=00_Afab4spqFgJq8oosmDHphE59nR_WDLmGSGCJhzMQvO88RQ&oe=68D15B65&backgroundColor=%23ecf0f1&instagram=nagihdayo&linkedin=vuongmanhnghia&github=vuongmanhnghia&twitter=nagihdayo" alt="Nagih's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Vuong%20Manh%20Nghia&description=Hi%2C%20I%27m%20a%20devops%20engineer%20and%20I%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl2aXdnZHYxMTFnaTJreHRtaDFpcHRkN2JhMWw1MnVrYmhtNzR0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oO5EueUxOSzpm/giphy.gif&backgroundColor=%23ecf0f1&instagram=nagihdayo&linkedin=vuongmanhnghia&github=vuongmanhnghia&twitter=nagihdayo" alt="Nagih's Card" />
   </a>
 </div>
 
