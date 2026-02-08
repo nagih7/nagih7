@@ -160,15 +160,6 @@
 </div>
 
 <br>
-<div align="center">
-  <h2>My Contributions </h2>
-  <br>
-  <a href="https://github.com/vuongmanhnghia1">
-    <img src="https://ghchart.rshah.org/vuongmanhnghia" alt="vuongmanhnghia's GitHub Contribution Chart">
-  </a>
-</div>
-
-<br>
 
 
 
